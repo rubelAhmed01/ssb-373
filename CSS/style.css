@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: antiquewhite;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: chartreuse;
+    height: 500px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    background-color: chocolate;
+    height: 300px;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+.right-content{
+    background: coral;
+    height: 300px;
+    text-align: center;
+    width: 50%;
+    float: right;
+}
+.content-2{
+    overflow: hidden;
+}
+.long-content{
+    background-color: darkorange;
+    height: 250px;
+    text-align: center;
+    width: 75%;
+    float: left;
+}
+.short-content{
+    background-color: darkgrey;
+    height: 250px;
+    text-align: center;
+    width: 25%;
+    float: right;
+}
+.client-content{
+    overflow: hidden;
+}
+.client-1{
+    background-color: darksalmon;
+    height: 150px;
+    text-align: center;
+    width: 25%;
+    float: left;
+
+}
+.client-2{
+    background-color: darkseagreen;
+    height: 150px;
+    text-align: center;
+    width: 25%;
+    float: left;
+
+}
+.client-3{
+    background-color: darkslategray;
+    height: 150px;
+    text-align: center;
+    width: 25%;
+    float: left;
+
+}
+.client-4{
+    background-color: darkturquoise;
+    height: 150px;
+    text-align: center;
+    width: 25%;
+    float: left;
+
+}
+.footer{
+    background-color: dimgrey;
+    height: 200px;
+    text-align: center;
+    width: 100%;
+}
+
